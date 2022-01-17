@@ -2,3 +2,10 @@
 In the base class, make a virtual function called draw( ), and override this in the derived classes.
 Make an array of pointers to Shape objects that you create on the heap (and thus perform upcasting of the pointers), and
 call draw( ) through the base-class pointers, to verify the behavior of the virtual function. If your debugger supports it, single-step through the code*/
+
+#include<iostream>
+using namespace std;
+
+int main(){
+  
+}
